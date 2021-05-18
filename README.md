@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @websterchak
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning The Pathway of Development
+👋 Hi, I’m @websterchak
 
 <!---
 websterchak/websterchak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
